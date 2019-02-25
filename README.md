@@ -30,6 +30,11 @@
 
   simulated the other PWM output by ***interrupt*** 
   
+### HW blockdiagram:
+
+#### Pillar server 
+  ![Pillar]()
+  
  
  
  
