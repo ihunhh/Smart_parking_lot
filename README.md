@@ -1,8 +1,8 @@
 # Smart parking lot
 
-#### This project is ***ADATA Technology co.*** cooperate with ***FCU*** to make a ***smart parking lot***
+* This project is ***ADATA Technology co.*** cooperate with ***FCU*** to make a ***smart parking lot***
 
-#### My duty is ***monitor and indicate every parking space***, and ***communication*** between ***parking lot*** and ***server***
+* My duty is ***monitor and indicate every parking space***, and ***communication*** between ***parking lot*** and ***server***
 
 ### Purpose:
   
