@@ -32,11 +32,11 @@
 
 * Pillar sever argorithm is implement on ***Arduino YUN board***
 
-  * [Source code](/project/Pillar_server/)
+  * *[Source code](/project/Pillar_server/)*
 
 * Parking place argorithm is implement on ***TM52F5288***
 
-  * [Source code](/project/Parking_place/)
+  * *[Source code](/project/Parking_place/)*
  
   
 ### HW blockdiagram:
