@@ -1,3 +1,3 @@
-# Smart_parking_lot
+# Smart parking lot
   
   * This project is ADATA cooperate with FCU to make a smart parking lot
