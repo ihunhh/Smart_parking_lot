@@ -32,7 +32,7 @@
   
 ### HW blockdiagram:
 
-#### Pillar server 
+#### Pillar server
 
 ![Pillar](/img/HWblockdiagram/HW diagram-Arduino YUN.png)
   
