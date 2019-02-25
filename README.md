@@ -29,6 +29,11 @@
 * It needs ***3*** PWM outputs to drive the ***RGB*** light, due to hardware limited, I used two PWM ouput and, 
 
   simulated the other PWM output by ***interrupt*** 
+
+* Pillar sever argorithm is implement on ***[Arduino YUN board]()***
+
+* Parking place argorithm is implement on ***[TM52F5288]()***
+ 
   
 ### HW blockdiagram:
 
