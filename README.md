@@ -32,9 +32,9 @@
   
 ### HW blockdiagram:
 
-#### Pillar server
+#### Parking place
 
-![Pillar](/img/HWblockdiagram/HW diagram-Arduino YUN.png)
+![PKP](/img/HWblockdiagram/HW_blockdiagram_PKP.png)
   
  
  
