@@ -6,7 +6,7 @@
 
 * For some reason, we have to using ***[tenx technology](https://www.tenx.com.tw/)*** TM5288Wifi board without any SDK
 
-* For the detail please download the ***[final_report](final_report.docx)***
+* For the detail please download the ***[final_report](https://github.com/ihunhh/Smart_parking_lot/raw/master/final_report.docx)***
 
 ### Purpose:
   
