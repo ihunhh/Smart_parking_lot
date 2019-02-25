@@ -24,7 +24,7 @@
 
 * Due to some reason, we have to using ***[tenx technology](https://www.tenx.com.tw/)*** [TM52F5288](https://www.tenx.com.tw/product_detail.aspx?ProductID=309) WiFi board ***without any SDK***
 
-* For the detail please download the ***[final_report](https://github.com/ihunhh/Smart_parking_lot/raw/master/final_report.docx)***
+* For the ***detail*** please download the ***[final_report](https://github.com/ihunhh/Smart_parking_lot/raw/master/final_report.docx)***
 
 * It needs ***3*** PWM outputs to drive the ***RGB*** light, due to hardware limited, I used two PWM ouput and, 
 
