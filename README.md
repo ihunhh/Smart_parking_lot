@@ -4,7 +4,7 @@
 
 * I finished those job ***by myself***:
 
-  * ***Monitor and indicate every parking space***
+  * ***Monitor, counting  and indicate state of every parking space***
   
   * ***Communication*** between ***parking lot*** and ***server***
 
