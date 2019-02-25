@@ -1,6 +1,6 @@
 # Smart parking lot
 
-* This project is ***ADATA Technology co.*** cooperate with ***FCU*** to make a ***smart parking lot***
+* This project is ***[ADATA Technology](https://www.adata.com/)*** cooperate with ***FCU*** to make a ***smart parking lot***
 
 * I finished those job ***by myself***:
 
