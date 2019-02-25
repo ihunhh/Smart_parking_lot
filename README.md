@@ -30,10 +30,6 @@
 
   simulated the other PWM output by ***interrupt*** 
   
- ### Flowchart:
- 
- #### Pillar server:
-  ![Pillar](/img/flowchart/Arduino.png)
  
  
  
