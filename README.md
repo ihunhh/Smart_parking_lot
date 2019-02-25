@@ -32,11 +32,11 @@
   
 ### HW blockdiagram:
 
-#### Parking place
+* #### Parking place
 
   <img src="/img/HWblockdiagram/HW_blockdiagram_PKP.png" height="600">
 
-#### Pillar server
+* #### Pillar server
 
   <img src="/img/HWblockdiagram/HW_diagram_Pillar.png" height="400">
 
