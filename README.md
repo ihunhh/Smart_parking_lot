@@ -38,7 +38,7 @@
 
 #### Pillar server
 
-<img src="/img/HWblockdiagram/HW_diagram_Pillar.png" height="300">
+<img src="/img/HWblockdiagram/HW_diagram_Pillar.png" height="400">
 
  
  
