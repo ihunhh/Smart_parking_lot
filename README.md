@@ -38,8 +38,8 @@
 
 #### Pillar server
 
-![Pillar](/img/HWblockdiagram/HW_diagram_Pillar.png)
-  
+<img src="/img/HWblockdiagram/HW_diagram_Pillar.png" height="600">
+
  
  
  
