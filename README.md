@@ -34,7 +34,7 @@
 
 #### Parking place
 
-<img src="/img/HWblockdiagram/HW_blockdiagram_PKP.png" height="500">
+<img src="/img/HWblockdiagram/HW_blockdiagram_PKP.png" height="600">
 
 #### Pillar server
 
