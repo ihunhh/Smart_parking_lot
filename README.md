@@ -2,6 +2,11 @@
 
 * This project is ***[ADATA Technology](https://www.adata.com/)*** cooperate with ***[FCU](http://www.fcu.edu.tw/wSite/mp?mp=1)*** to make a ***smart parking lot***
 
+### Architecture:
+
+![Architecture](/img/architecture.jpg)
+
+
 * I finished those job ***by myself***:
 
   * ***Monitor, counting  and indicate state of every parking space***
@@ -20,9 +25,7 @@
 
   * We have to drive and control it through wifi
     
-### Architecture:
 
-![Architecture](/img/architecture.jpg)
 
   
 
