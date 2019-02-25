@@ -11,7 +11,8 @@
   * We have to drive and control it through wifi
     
 ### Architecture:
-    
+
+![Architecture](/img/)
 
   
 
