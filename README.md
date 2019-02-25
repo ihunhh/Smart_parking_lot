@@ -12,6 +12,7 @@
 
 ![Architecture](/img/architecture.jpg)
 
+### Working detail:
 
 * I finished those job ***by myself***:
 
