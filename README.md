@@ -24,7 +24,7 @@
 
 * For the detail please download the ***[final_report](https://github.com/ihunhh/Smart_parking_lot/raw/master/final_report.docx)***
 
-* we need 3 pwm output to drive the RGB light, due to hardware limited, I used two PWM ouput and, simulated the other PWM output by ***interrupt*** 
+* It needs ***3*** PWM output to drive the ***RGB*** light, due to hardware limited, I used two PWM ouput and, simulated the other PWM output by ***interrupt*** 
 
 
 
