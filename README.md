@@ -8,7 +8,7 @@
   
   * ***Communication*** between ***parking lot*** and ***server***
 
-* Due to some reason, we have to using ***[tenx technology](https://www.tenx.com.tw/)*** TM52F5288 WiFi board ***without any SDK***
+* Due to some reason, we have to using ***[tenx technology](https://www.tenx.com.tw/)*** [TM52F5288](https://www.tenx.com.tw/product_detail.aspx?ProductID=309) WiFi board ***without any SDK***
 
 * For the detail please download the ***[final_report](https://github.com/ihunhh/Smart_parking_lot/raw/master/final_report.docx)***
 
