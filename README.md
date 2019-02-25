@@ -30,9 +30,9 @@
 
   simulated the other PWM output by ***interrupt*** 
 
-* Pillar sever argorithm is implement on ***[Arduino YUN board]()***
+* Pillar sever argorithm is implement on ***[Arduino YUN board](/project/Parking_place/)***
 
-* Parking place argorithm is implement on ***[TM52F5288]()***
+* Parking place argorithm is implement on ***[TM52F5288](/project/Parking_place/)***
  
   
 ### HW blockdiagram:
