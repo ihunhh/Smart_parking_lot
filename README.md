@@ -12,7 +12,7 @@
     
 ### Architecture:
 
-![Architecture](/img/)
+![Architecture](/img/architecture.png)
 
   
 
