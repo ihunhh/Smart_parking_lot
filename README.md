@@ -2,7 +2,9 @@
 
 * This project is ***ADATA Technology co.*** cooperate with ***FCU*** to make a ***smart parking lot***
 
-* My duty is ***monitor and indicate every parking space***, and ***communication*** between ***parking lot*** and ***server***
+* I finished those job by myself:
+
+  ***monitor and indicate every parking space***, and ***communication*** between ***parking lot*** and ***server***
 
 * For some reason, we have to using ***[tenx technology](https://www.tenx.com.tw/)*** Tenx TM52F5288 WiFi board without any SDK
 
