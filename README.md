@@ -34,7 +34,7 @@
 
 #### Pillar server 
 
-  ![Pillar](/img/HWblockdiagram/HW diagram-Arduino YUN.png)
+![Pillar](/img/HWblockdiagram/HW diagram-Arduino YUN.png)
   
  
  
