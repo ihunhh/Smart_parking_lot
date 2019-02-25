@@ -20,7 +20,7 @@
     
 ### Architecture:
 
-![Architecture](/img/architecture.png)
+![Architecture](/img/architecture.jpg)
 
   
 
