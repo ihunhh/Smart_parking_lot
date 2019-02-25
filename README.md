@@ -30,7 +30,7 @@
 
   simulated the other PWM output by ***interrupt*** 
   
- ### Flow chart:
+ ### Flowchart:
  
  
 
