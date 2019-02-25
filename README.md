@@ -1,5 +1,7 @@
 # Smart parking lot
 
+### Preface:
+
 * This project is ***[ADATA Technology](https://www.adata.com/)*** cooperate with ***[FCU](http://www.fcu.edu.tw/wSite/mp?mp=1)*** to make a ***smart parking lot***
 
 ### Purpose:
