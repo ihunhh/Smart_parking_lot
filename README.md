@@ -38,7 +38,7 @@
 
 #### Pillar server
 
-![Pillar](/img/HWblockdiagram/HW_blockdiagram_PKP.png)
+![Pillar](/img/HWblockdiagram/HW_diagram_Pillar.png)
   
  
  
