@@ -4,7 +4,7 @@
 
 * My duty is ***monitor and indicate every parking space***, and ***communication*** between ***parking lot*** and ***server***
 
-* For some reason, we have to using ***tenx technology*** TM5288Wifi board without any SDK
+* For some reason, we have to using ***[tenx technology](https://www.tenx.com.tw/)*** TM5288Wifi board without any SDK
 
 ### Purpose:
   
