@@ -35,6 +35,10 @@
 #### Parking place
 
 ![PKP](/img/HWblockdiagram/HW_blockdiagram_PKP.png)
+
+#### Pillar server
+
+![Pillar](/img/HWblockdiagram/HW_blockdiagram_PKP.png)
   
  
  
