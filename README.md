@@ -12,6 +12,8 @@
 
 * For the detail please download the ***[final_report](https://github.com/ihunhh/Smart_parking_lot/raw/master/final_report.docx)***
 
+* Due to hardware limited, I used two PWM ouput and, simulated the other PWM output by interrupt 
+
 ### Purpose:
   
 * Applying ***ADATA's LED lights*** to be a smart parking lot indicator
