@@ -2,6 +2,12 @@
 
 * This project is ***[ADATA Technology](https://www.adata.com/)*** cooperate with ***[FCU](http://www.fcu.edu.tw/wSite/mp?mp=1)*** to make a ***smart parking lot***
 
+### Purpose:
+  
+* Applying ***ADATA's LED lights*** to be a smart parking lot indicator
+
+  * We have to drive and control it through wifi
+
 ### Architecture:
 
 ![Architecture](/img/architecture.jpg)
@@ -19,12 +25,6 @@
 
 * Due to hardware limited, I used two PWM ouput and, simulated the other PWM output by interrupt 
 
-### Purpose:
-  
-* Applying ***ADATA's LED lights*** to be a smart parking lot indicator
-
-  * We have to drive and control it through wifi
-    
 
 
   
