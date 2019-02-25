@@ -32,6 +32,10 @@
   
  ### Flowchart:
  
+ #### Pillar server:
+  ![Pillar](/img/flowchart/Arduino.png)
+ 
+ 
  
 
 
