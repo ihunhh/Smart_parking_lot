@@ -6,6 +6,8 @@
 
 * For some reason, we have to using ***[tenx technology](https://www.tenx.com.tw/)*** TM5288Wifi board without any SDK
 
+* For the detail refer ***[final_report]()***
+
 ### Purpose:
   
 * Applying ***ADATA's LED lights*** to be a smart parking lot indicator
