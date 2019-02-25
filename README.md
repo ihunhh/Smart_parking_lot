@@ -2,7 +2,7 @@
 
 * This project is ***ADATA Technology co.*** cooperate with ***FCU*** to make a ***smart parking lot***
 
-* my duty is monitor and indicate every parking space, and communication between parking lot with server
+* My duty is ***monitor and indicate every parking space***, and ***communication between parking lot with server***
 
 ### Main purpose:
   
