@@ -6,7 +6,7 @@
   
 * Applying ADATA's LED lights to be a parking lot indicator
 
-  * We have to drive and controll it
+  * We have to drive and control it
     
 
   
