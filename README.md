@@ -30,11 +30,11 @@
 
   simulated the other PWM output by ***interrupt*** 
 
-* Pillar sever argorithm is implement on ***Arduino YUN board***
+* Pillar sever algorithm is implement on ***Arduino YUN board***
 
   * ***[Source code](/project/Pillar_server/)***
 
-* Parking place argorithm is implement on ***TM52F5288***
+* Parking place algorithm is implement on ***TM52F5288***
 
   * ***[Source code](/project/Parking_place/)***
  
