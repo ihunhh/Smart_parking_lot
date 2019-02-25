@@ -9,7 +9,10 @@
 * Applying ***ADATA's LED lights*** to be a smart parking lot indicator
 
   * We have to drive and control it through wifi
-
+  
+<br />
+  
+### Architecture:
     
 
   
