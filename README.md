@@ -4,7 +4,7 @@
 
 ### Main purpose:
   
-* Applying ***ADATA's LED lights*** to be a parking lot indicator
+* Applying ***ADATA's LED lights*** to be a smart parking lot indicator
 
   * We have to drive and control it
     
