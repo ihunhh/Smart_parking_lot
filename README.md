@@ -39,7 +39,7 @@
   * ***[Source code](/project/Parking_place/)***
  
   
-### HW blockdiagram:
+### Hardware blockdiagram:
 
 * #### Parking place
 
