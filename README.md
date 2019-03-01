@@ -2,7 +2,7 @@
 
 ### Preface:
 
-* This project is ***[ADATA Technology](https://www.adata.com/)*** cooperate with ***[FCU](http://www.fcu.edu.tw/wSite/mp?mp=1)*** to make a ***smart parking lot*** solution
+* This is aIoT consutltancy project between ***[Feng Chia University(Taichung City, Taiwan)](http://www.fcu.edu.tw/wSite/mp?mp=1)*** and ***[ADATA Technology](https://www.adata.com/)*** for ***large-scale*** smart parking lot soulution
 
 ### Purpose:
   
@@ -16,7 +16,7 @@
 
 ### Working detail:
 
-* I finished those job ***by myself***:
+* ***Individual work***:
 
   * ***Monitor, counting  and indicate state of every parking space***
   
