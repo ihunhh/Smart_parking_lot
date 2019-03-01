@@ -18,11 +18,11 @@
 
 * ***Individual work***:
 
-  * ***Monitor, counting  and indicate state of every parking space***
+  * ***Monitoring, counting  and indicating*** the ***state*** of each parking space***
   
   * ***Communication*** between ***parking lot*** and ***server***
 
-* Due to some reason, we have to using ***[tenx technology](https://www.tenx.com.tw/)*** [TM52F5288](https://www.tenx.com.tw/product_detail.aspx?ProductID=309) WiFi board ***without any SDK***
+* Given the subject, this project only use ***[tenx technology](https://www.tenx.com.tw/)*** [TM52F5288](https://www.tenx.com.tw/product_detail.aspx?ProductID=309) WiFi board ***without any SDK***
 
 * For the ***detail*** please download the ***[final_report](https://github.com/ihunhh/Smart_parking_lot/raw/master/final_report.docx)***
 
