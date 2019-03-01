@@ -2,7 +2,7 @@
 
 ### Preface:
 
-* This is an ***IoT consutltancy*** project between ***[Feng Chia University(Taichung City, Taiwan)](http://www.fcu.edu.tw/wSite/mp?mp=1)*** and ***[ADATA Technology](https://www.adata.com/)*** for ***large-scale*** smart parking lot soulution
+* This is an ***IoT consultancy*** project between ***[Feng Chia University(Taichung City, Taiwan)](http://www.fcu.edu.tw/wSite/mp?mp=1)*** and ***[ADATA Technology](https://www.adata.com/)*** for ***large-scale*** smart parking lot soulution
 
 ### Purpose:
   
