@@ -18,7 +18,7 @@
 
 * ***Individual work***:
 
-  * ***Monitoring, counting  and indicating*** the ***state*** of each parking space***
+  * ***Monitoring, counting  and indicating*** the ***state*** of each parking space
   
   * ***Communication*** between ***parking lot*** and ***server***
 
